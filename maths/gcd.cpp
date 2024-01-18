@@ -22,3 +22,5 @@ int main()
 
 
 }
+
+// Time Complexity = O(min(a,b)) 

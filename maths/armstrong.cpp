@@ -23,3 +23,5 @@ int main()
         cout << "Not an Armstrong Number" << endl;
     }
 }
+
+// Time Complexity = O(log10(N))

@@ -18,3 +18,5 @@ int main()
     }
     cout<<endl;
 }
+
+// Time Complexity = O(sqrt(n))
