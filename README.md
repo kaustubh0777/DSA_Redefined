@@ -24,7 +24,7 @@
 
 <li ><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/sorting/">Sorting</a></b>
 
-<ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/arrays/sorting/sorting-I">Sorting-I</a></b></ul>
+<ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/sorting/sorting-I">Sorting-I</a></b></ul>
 <ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/arrays/sorting/sorting-II">Sorting-I</a></b></ul>
 
 </li>
