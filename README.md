@@ -16,6 +16,12 @@
 <ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/arrays/hard">Hard</a></b></ul>
 </li>
 
+<li ><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/strings/">Strings</a></b>
+<ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/strings/basic_and_easy">Basic and Easy</a></b></ul>
+<ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/strings/medium">Medium</a></b></ul>
+
+</li>
+
 <li ><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/binary_search/">Binary Search</a></b>
 <ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/binary_search/binary_search_1D">Binary Search in 1D</a></b></ul>
 <ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/binary_search/binary_search_2D">Binary Search in 2D</a></b></ul>
