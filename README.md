@@ -35,4 +35,15 @@
 
 </li>
 
+</li>
+
+<li ><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/linked_list/">Linked List</a></b>
+
+<ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/linked_list/1d_linked_list">1D Linked List</a></b></ul>
+<ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/linked_list/double_linked_list">Double Linked List</a></b></ul>
+
+</li>
+
+
+
 </ul>
