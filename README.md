@@ -65,6 +65,8 @@
 
 <ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/dynamic_programming/1d_dp">1D DP</a></b></ul>
 
+<ul><b><a href="https://github.com/kaustubh0777/DSA_Redefined/tree/master/dynamic_programming/2d_dp">2D DP</a></b></ul>
+
 
 </li>
 
